@@ -1,8 +1,20 @@
 # open-system-project
-Like Open Source Project in IT, we make radically transparent system where all changemakers can jump in and realize one mission =  the better world together 
 
+(What We Do)
+Like Open Source Project(OSP) in IT, we make radically transparent system where all changemakers can jump in and realize one mission =  the better world together 
+
+(Where We Do)
+
+Sub project of this OSP
+- Fintech
+- Crisis support
+- Culture knowldgebase
+- Local economy enhancement
+- more to come!
 
 ----
+
+(Why We Do)
 
 with my huge respect to Y Combinator, Audrey Tang, other superstarts in the Computer Science history
 I am a big fan of Neon Genesis Evagelion - they have a secret "Seele" system for decision making to "end the world".
